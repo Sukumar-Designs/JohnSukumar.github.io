@@ -108,11 +108,11 @@ a {
 
 a:hover {
   border-bottom-color: transparent;
-  color: #f7fc7c;
+  color: #f7fc7c !important;
 }
 
 a:active {
-  color: #f7fc7c;
+  color: #f7fc7c !important;
 }
 
 h1 {
