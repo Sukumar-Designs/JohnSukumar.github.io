@@ -437,6 +437,10 @@ ul li {
   color: #febda8;
 }
 
+.CrewNeckh2{
+  color:#EFD8FF;
+}
+
 #John-Sukumar {
   padding-left: 1.25em;
   padding-bottom: 0.8em;
@@ -980,6 +984,39 @@ ul li {
     #t4{
     order: 3;
   }  
+  
+  
+  
+    #C1{
+    order: 0;
+  }  
+  
+    #C2{
+    order: 1;
+  }  
+  
+    #C3{
+    order: 2 ;
+  }  
+  
+    #C4{
+    order: 3;
+  }  
+  
+    #C5{
+    order: 4;
+  }  
+  
+    #C6{
+    order: 5;
+  }  
+  
+    #C7{
+    order: 6 ;
+  }
+   #C8{
+    order: 7 ;
+  }
   
 .square-photos{
   max-width: 95%; 
